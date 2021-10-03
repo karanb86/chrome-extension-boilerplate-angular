@@ -1,0 +1,9 @@
+{
+  "name": "chrome-extension-boilerplate-angular",
+  "version": "1.0",
+  "description": "chrome-extension-boilerplate-angular",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html"
+  }
+}
